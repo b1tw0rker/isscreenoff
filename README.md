@@ -5,3 +5,7 @@ An Android Cordova plugin that checks if the screen is off
 The plugin itself can also be found here:
 
 https://cordova.apache.org/plugins/?q=isscreenoff
+
+or here:
+
+https://www.npmjs.com/package/cordova-plugin-isscreenoff
