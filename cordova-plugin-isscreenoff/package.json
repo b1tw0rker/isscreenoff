@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-isscreenoff",
+  "version": "0.0.1",
+  "description": "Plugin to check if the screen is off",
+  "cordova": {
+    "id": "cordova-plugin-isscreenoff",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b1tw0rker/isscreenoff.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Nick Herrmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b1tw0rker/isscreenoff/issues"
+  },
+  "homepage": "https://github.com/b1tw0rker/isscreenoff#readme"
+}
