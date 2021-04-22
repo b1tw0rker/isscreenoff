@@ -1,7 +1,7 @@
 # isscreenoff
 An Android Cordova plugin that checks if the screen is off
 
-# Cordva Plugins Release
+# Cordova Plugins Release
 The plugin itself can also be found here:
 
 https://cordova.apache.org/plugins/?q=isscreenoff
@@ -10,9 +10,9 @@ or here:
 
 https://www.npmjs.com/package/cordova-plugin-isscreenoff
 
-# A german Description
+# A german description
 
-# Ein eigenes Plugin für Cordova erstellen.
+# Ein eigenes Plugin für Cordova erstellen und veröffentlichen
 Diese Anleitung ist ein Versuch einer einfachen und praktischen Dokumentation, zur Erklärung, wie ein Plugin für cordova erstellt wird. Die Motivation für diese Anleitung stammt anhand mangelnder Dokumentationen im Netz. Weiterhin waren die englischsprachigen Anleitungen, welche ich gefunden habe, meist fehlerhaft. Skills: Es sollten grundlegende Kenntnisse mit dem Umgang von Cordova vorhanden sein.
 # Die Struktur (Von Javascript zu Java)
 Cordova bietet über die Schnittstellenfunktion cordova.exec den Weg von Javascript zu nativen Java. Mit dieser Funktion kann das Smartphone direkt angesprochen werden.
